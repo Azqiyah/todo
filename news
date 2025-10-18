@@ -1,4 +1,3 @@
-    
 export default async function handler(req, res) {
   const { q } = req.query;
   const apiKey = "f11a80e437c544af98efa3897d45c00f";
